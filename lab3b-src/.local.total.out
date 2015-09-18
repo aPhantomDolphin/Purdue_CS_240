@@ -1,0 +1,1058 @@
+
+
+-------------------------------------------------
+CS240: lab3b . cs240   
+Mon Feb  9 11:04:09 EST 2015
+-------------------------------------------------
+./convert                           : 0   of 3  
+./convert 10                        : 0   of 3  
+./convert 10 10                     : 0   of 3  
+./convert 10 10                     : 0   of 3  
+./convert 10 10 10                  : 0   of 3  
+./convert 16 10 FF                  : 0   of 3  
+./convert 16 10 100                 : 0   of 3  
+./convert 10 8 20                   : 0   of 3  
+./convert 10 2 127                  : 0   of 3  
+./convert 10 16 8191                : 0   of 3  
+./convert 10 25 100077900           : 0   of 3  
+./convert 2 16 100010001111         : 0   of 3  
+./convert 5 10 1234                 : 0   of 3  
+./convert 5 10 123456               : 0   of 3  
+-------------------------------------------------
+CS240: lab3b. cs240 Mon Feb 9 11:04:09 EST 2015  Total:  0 of 42
+
+
+
+-------------------------------------------------
+CS240: lab3b . cs240   
+Mon Feb  9 11:19:55 EST 2015
+-------------------------------------------------
+./convert                           : 0   of 1  
+./convert 10                        : 0   of 1  
+./convert 10 10                     : 0   of 1  
+./convert 10 10                     : 0   of 1  
+./convert 10 10 10                  : 0   of 1  
+./convert 16 10 FF                  : 0   of 1  
+./convert 16 10 100                 : 0   of 1  
+./convert 10 8 20                   : 0   of 1  
+./convert 10 2 127                  : 0   of 1  
+./convert 10 16 8191                : 0   of 1  
+./convert 10 25 100077900           : 0   of 1  
+./convert 2 16 100010001111         : 0   of 1  
+./convert 5 10 1234                 : 0   of 1  
+./convert 5 10 123456               : 0   of 1  
+-------------------------------------------------
+CS240: lab3b. cs240 Mon Feb 9 11:19:55 EST 2015  Total:  0 of 14
+
+
+
+-------------------------------------------------
+CS240: lab3b . cs240   
+Mon Feb  9 11:24:28 EST 2015
+-------------------------------------------------
+./convert                           : 0   of 1  
+./convert 10                        : 0   of 1  
+./convert 10 10                     : 0   of 1  
+./convert 10 10                     : 0   of 1  
+./convert 10 10 10                  : 0   of 1  
+./convert 16 10 FF                  : 0   of 1  
+./convert 16 10 100                 : 0   of 1  
+./convert 10 8 20                   : 0   of 1  
+./convert 10 2 127                  : 0   of 1  
+./convert 10 16 8191                : 0   of 1  
+./convert 10 25 100077900           : 0   of 1  
+./convert 2 16 100010001111         : 0   of 1  
+./convert 5 10 1234                 : 0   of 1  
+./convert 5 10 123456               : 0   of 1  
+-------------------------------------------------
+CS240: lab3b. cs240 Mon Feb 9 11:24:28 EST 2015  Total:  0 of 14
+
+
+
+-------------------------------------------------
+CS240: lab3b . guo268   
+Fri Feb 13 16:54:15 EST 2015
+-------------------------------------------------
+./convert                           : 1   of 1  
+./convert 10                        : 1   of 1  
+./convert 10 10                     : 1   of 1  
+./convert 10 10                     : 1   of 1  
+./convert 10 10 10                  : 1   of 1  
+./convert 16 10 FF                  : 1   of 1  
+./convert 16 10 100                 : 1   of 1  
+./convert 10 8 20                   : 1   of 1  
+./convert 10 2 127                  : 1   of 1  
+./convert 10 16 8191                : 1   of 1  
+./convert 10 25 100077900           : 1   of 1  
+./convert 2 16 100010001111         : 1   of 1  
+./convert 5 10 1234                 : 1   of 1  
+./convert 5 10 123456               : 1   of 1  
+-------------------------------------------------
+CS240: lab3b. guo268 Fri Feb 13 16:54:15 EST 2015  Total:  14 of 14
+
+
+
+-------------------------------------------------
+CS240: lab3b . guo268   
+Mon Feb 16 20:43:08 EST 2015
+-------------------------------------------------
+./convert                           : 1   of 1  
+./convert 10                        : 1   of 1  
+./convert 10 10                     : 1   of 1  
+./convert 10 10                     : 1   of 1  
+./convert 10 10 10                  : 1   of 1  
+./convert 16 10 FF                  : 1   of 1  
+./convert 16 10 100                 : 1   of 1  
+./convert 10 8 20                   : 1   of 1  
+./convert 10 2 127                  : 1   of 1  
+./convert 10 16 8191                : 1   of 1  
+./convert 10 25 100077900           : 1   of 1  
+./convert 2 16 100010001111         : 1   of 1  
+./convert 5 10 1234                 : 1   of 1  
+./convert 5 10 123456               : 1   of 1  
+-------------------------------------------------
+CS240: lab3b. guo268 Mon Feb 16 20:43:08 EST 2015  Total:  14 of 14
+
+
+
+-------------------------------------------------
+CS240: lab3b . guo268   
+Mon Feb 16 20:45:04 EST 2015
+-------------------------------------------------
+./convert                           : 1   of 1  
+./convert 10                        : 1   of 1  
+./convert 10 10                     : 1   of 1  
+./convert 10 10                     : 1   of 1  
+./convert 10 10 10                  : 1   of 1  
+./convert 16 10 FF                  : 1   of 1  
+./convert 16 10 100                 : 1   of 1  
+./convert 10 8 20                   : 1   of 1  
+./convert 10 2 127                  : 1   of 1  
+./convert 10 16 8191                : 1   of 1  
+./convert 10 25 100077900           : 1   of 1  
+./convert 2 16 100010001111         : 1   of 1  
+./convert 5 10 1234                 : 1   of 1  
+./convert 5 10 123456               : 1   of 1  
+-------------------------------------------------
+CS240: lab3b. guo268 Mon Feb 16 20:45:04 EST 2015  Total:  14 of 14
+
+
+
+-------------------------------------------------
+CS240: lab3b . guo268   
+Mon Feb 16 20:48:14 EST 2015
+-------------------------------------------------
+./convert                           : 1   of 1  
+./convert 10                        : 1   of 1  
+./convert 10 10                     : 1   of 1  
+./convert 10 10                     : 1   of 1  
+./convert 10 10 10                  : 1   of 1  
+./convert 16 10 FF                  : 1   of 1  
+./convert 16 10 100                 : 1   of 1  
+./convert 10 8 20                   : 1   of 1  
+./convert 10 2 127                  : 1   of 1  
+./convert 10 16 8191                : 1   of 1  
+./convert 10 25 100077900           : 1   of 1  
+./convert 2 16 100010001111         : 1   of 1  
+./convert 5 10 1234                 : 1   of 1  
+./convert 5 10 123456               : 1   of 1  
+-------------------------------------------------
+CS240: lab3b. guo268 Mon Feb 16 20:48:14 EST 2015  Total:  14 of 14
+
+
+
+-------------------------------------------------
+CS240: lab3b . guo268   
+Mon Feb 16 20:51:55 EST 2015
+-------------------------------------------------
+./convert                           : 1   of 1  
+./convert 10                        : 1   of 1  
+./convert 10 10                     : 1   of 1  
+./convert 10 10                     : 1   of 1  
+./convert 10 10 10                  : 0   of 1  
+./convert 16 10 FF                  : 0   of 1  
+./convert 16 10 100                 : 0   of 1  
+./convert 10 8 20                   : 0   of 1  
+./convert 10 2 127                  : 0   of 1  
+./convert 10 16 8191                : 0   of 1  
+./convert 10 25 100077900           : 0   of 1  
+./convert 2 16 100010001111         : 0   of 1  
+./convert 5 10 1234                 : 0   of 1  
+./convert 5 10 123456               : 0   of 1  
+-------------------------------------------------
+CS240: lab3b. guo268 Mon Feb 16 20:51:55 EST 2015  Total:  4 of 14
+
+
+
+-------------------------------------------------
+CS240: lab3b . guo268   
+Mon Feb 16 20:52:33 EST 2015
+-------------------------------------------------
+./convert                           : 1   of 1  
+./convert 10                        : 1   of 1  
+./convert 10 10                     : 1   of 1  
+./convert 10 10                     : 1   of 1  
+./convert 10 10 10                  : 0   of 1  
+./convert 16 10 FF                  : 0   of 1  
+./convert 16 10 100                 : 0   of 1  
+./convert 10 8 20                   : 0   of 1  
+./convert 10 2 127                  : 0   of 1  
+./convert 10 16 8191                : 0   of 1  
+./convert 10 25 100077900           : 0   of 1  
+./convert 2 16 100010001111         : 0   of 1  
+./convert 5 10 1234                 : 0   of 1  
+./convert 5 10 123456               : 0   of 1  
+-------------------------------------------------
+CS240: lab3b. guo268 Mon Feb 16 20:52:33 EST 2015  Total:  4 of 14
+
+
+
+-------------------------------------------------
+CS240: lab3b . guo268   
+Mon Feb 16 20:52:54 EST 2015
+-------------------------------------------------
+./convert                           : 1   of 1  
+./convert 10                        : 1   of 1  
+./convert 10 10                     : 1   of 1  
+./convert 10 10                     : 1   of 1  
+./convert 10 10 10                  : 1   of 1  
+./convert 16 10 FF                  : 1   of 1  
+./convert 16 10 100                 : 1   of 1  
+./convert 10 8 20                   : 1   of 1  
+./convert 10 2 127                  : 1   of 1  
+./convert 10 16 8191                : 1   of 1  
+./convert 10 25 100077900           : 1   of 1  
+./convert 2 16 100010001111         : 1   of 1  
+./convert 5 10 1234                 : 1   of 1  
+./convert 5 10 123456               : 1   of 1  
+-------------------------------------------------
+CS240: lab3b. guo268 Mon Feb 16 20:52:54 EST 2015  Total:  14 of 14
+
+
+
+-------------------------------------------------
+CS240: lab3b . guo268   
+Mon Feb 16 20:53:18 EST 2015
+-------------------------------------------------
+./convert                           : 1   of 1  
+./convert 10                        : 1   of 1  
+./convert 10 10                     : 1   of 1  
+./convert 10 10                     : 1   of 1  
+./convert 10 10 10                  : 1   of 1  
+./convert 16 10 FF                  : 1   of 1  
+./convert 16 10 100                 : 1   of 1  
+./convert 10 8 20                   : 1   of 1  
+./convert 10 2 127                  : 1   of 1  
+./convert 10 16 8191                : 1   of 1  
+./convert 10 25 100077900           : 1   of 1  
+./convert 2 16 100010001111         : 1   of 1  
+./convert 5 10 1234                 : 1   of 1  
+./convert 5 10 123456               : 1   of 1  
+-------------------------------------------------
+CS240: lab3b. guo268 Mon Feb 16 20:53:18 EST 2015  Total:  14 of 14
+
+
+
+-------------------------------------------------
+CS240: lab3b . guo268   
+Mon Feb 16 20:56:49 EST 2015
+-------------------------------------------------
+./convert                           : 1   of 1  
+./convert 10                        : 1   of 1  
+./convert 10 10                     : 1   of 1  
+./convert 10 10                     : 1   of 1  
+./convert 10 10 10                  : 1   of 1  
+./convert 16 10 FF                  : 1   of 1  
+./convert 16 10 100                 : 1   of 1  
+./convert 10 8 20                   : 1   of 1  
+./convert 10 2 127                  : 1   of 1  
+./convert 10 16 8191                : 1   of 1  
+./convert 10 25 100077900           : 1   of 1  
+./convert 2 16 100010001111         : 1   of 1  
+./convert 5 10 1234                 : 1   of 1  
+./convert 5 10 123456               : 0   of 1  
+-------------------------------------------------
+CS240: lab3b. guo268 Mon Feb 16 20:56:49 EST 2015  Total:  13 of 14
+
+
+
+-------------------------------------------------
+CS240: lab3b . guo268   
+Mon Feb 16 21:16:58 EST 2015
+-------------------------------------------------
+./convert                           : 1   of 1  
+./convert 10                        : 1   of 1  
+./convert 10 10                     : 1   of 1  
+./convert 10 10                     : 1   of 1  
+./convert 10 10 10                  : 0   of 1  
+./convert 16 10 FF                  : 0   of 1  
+./convert 16 10 100                 : 0   of 1  
+./convert 10 8 20                   : 0   of 1  
+./convert 10 2 127                  : 0   of 1  
+./convert 10 16 8191                : 0   of 1  
+./convert 10 25 100077900           : 0   of 1  
+./convert 2 16 100010001111         : 0   of 1  
+./convert 5 10 1234                 : 0   of 1  
+./convert 5 10 123456               : 1   of 1  
+-------------------------------------------------
+CS240: lab3b. guo268 Mon Feb 16 21:16:58 EST 2015  Total:  5 of 14
+
+
+
+-------------------------------------------------
+CS240: lab3b . guo268   
+Mon Feb 16 21:18:54 EST 2015
+-------------------------------------------------
+./convert                           : 1   of 1  
+./convert 10                        : 1   of 1  
+./convert 10 10                     : 1   of 1  
+./convert 10 10                     : 1   of 1  
+./convert 10 10 10                  : 1   of 1  
+./convert 16 10 FF                  : 0   of 1  
+./convert 16 10 100                 : 1   of 1  
+./convert 10 8 20                   : 1   of 1  
+./convert 10 2 127                  : 1   of 1  
+./convert 10 16 8191                : 1   of 1  
+./convert 10 25 100077900           : 1   of 1  
+./convert 2 16 100010001111         : 1   of 1  
+./convert 5 10 1234                 : 1   of 1  
+./convert 5 10 123456               : 0   of 1  
+-------------------------------------------------
+CS240: lab3b. guo268 Mon Feb 16 21:18:54 EST 2015  Total:  12 of 14
+
+
+
+-------------------------------------------------
+CS240: lab3b . guo268   
+Mon Feb 16 21:19:11 EST 2015
+-------------------------------------------------
+./convert                           : 1   of 1  
+./convert 10                        : 1   of 1  
+./convert 10 10                     : 1   of 1  
+./convert 10 10                     : 1   of 1  
+./convert 10 10 10                  : 1   of 1  
+./convert 16 10 FF                  : 1   of 1  
+./convert 16 10 100                 : 1   of 1  
+./convert 10 8 20                   : 1   of 1  
+./convert 10 2 127                  : 1   of 1  
+./convert 10 16 8191                : 1   of 1  
+./convert 10 25 100077900           : 1   of 1  
+./convert 2 16 100010001111         : 1   of 1  
+./convert 5 10 1234                 : 1   of 1  
+./convert 5 10 123456               : 0   of 1  
+-------------------------------------------------
+CS240: lab3b. guo268 Mon Feb 16 21:19:11 EST 2015  Total:  13 of 14
+
+
+
+-------------------------------------------------
+CS240: lab3b . guo268   
+Mon Feb 16 21:20:51 EST 2015
+-------------------------------------------------
+./convert                           : 1   of 1  
+./convert 10                        : 1   of 1  
+./convert 10 10                     : 1   of 1  
+./convert 10 10                     : 1   of 1  
+./convert 10 10 10                  : 0   of 1  
+./convert 16 10 FF                  : 1   of 1  
+./convert 16 10 100                 : 1   of 1  
+./convert 10 8 20                   : 0   of 1  
+./convert 10 2 127                  : 0   of 1  
+./convert 10 16 8191                : 1   of 1  
+./convert 10 25 100077900           : 1   of 1  
+./convert 2 16 100010001111         : 0   of 1  
+./convert 5 10 1234                 : 1   of 1  
+./convert 5 10 123456               : 0   of 1  
+-------------------------------------------------
+CS240: lab3b. guo268 Mon Feb 16 21:20:51 EST 2015  Total:  9 of 14
+
+
+
+-------------------------------------------------
+CS240: lab3b . guo268   
+Mon Feb 16 21:21:16 EST 2015
+-------------------------------------------------
+./convert                           : 1   of 1  
+./convert 10                        : 1   of 1  
+./convert 10 10                     : 1   of 1  
+./convert 10 10                     : 1   of 1  
+./convert 10 10 10                  : 1   of 1  
+./convert 16 10 FF                  : 1   of 1  
+./convert 16 10 100                 : 1   of 1  
+./convert 10 8 20                   : 1   of 1  
+./convert 10 2 127                  : 1   of 1  
+./convert 10 16 8191                : 1   of 1  
+./convert 10 25 100077900           : 1   of 1  
+./convert 2 16 100010001111         : 1   of 1  
+./convert 5 10 1234                 : 1   of 1  
+./convert 5 10 123456               : 1   of 1  
+-------------------------------------------------
+CS240: lab3b. guo268 Mon Feb 16 21:21:16 EST 2015  Total:  14 of 14
+
+
+
+-------------------------------------------------
+CS240: lab3b . guo268   
+Mon Feb 16 21:23:32 EST 2015
+-------------------------------------------------
+./convert                           : 1   of 1  
+./convert 10                        : 1   of 1  
+./convert 10 10                     : 1   of 1  
+./convert 10 10                     : 1   of 1  
+./convert 10 10 10                  : 0   of 1  
+./convert 16 10 FF                  : 0   of 1  
+./convert 16 10 100                 : 0   of 1  
+./convert 10 8 20                   : 0   of 1  
+./convert 10 2 127                  : 0   of 1  
+./convert 10 16 8191                : 0   of 1  
+./convert 10 25 100077900           : 0   of 1  
+./convert 2 16 100010001111         : 0   of 1  
+./convert 5 10 1234                 : 0   of 1  
+./convert 5 10 123456               : 1   of 1  
+-------------------------------------------------
+CS240: lab3b. guo268 Mon Feb 16 21:23:32 EST 2015  Total:  5 of 14
+
+
+
+-------------------------------------------------
+CS240: lab3b . guo268   
+Mon Feb 16 21:24:12 EST 2015
+-------------------------------------------------
+./convert                           : 1   of 1  
+./convert 10                        : 1   of 1  
+./convert 10 10                     : 1   of 1  
+./convert 10 10                     : 1   of 1  
+./convert 10 10 10                  : 0   of 1  
+./convert 16 10 FF                  : 0   of 1  
+./convert 16 10 100                 : 0   of 1  
+./convert 10 8 20                   : 0   of 1  
+./convert 10 2 127                  : 0   of 1  
+./convert 10 16 8191                : 0   of 1  
+./convert 10 25 100077900           : 0   of 1  
+./convert 2 16 100010001111         : 0   of 1  
+./convert 5 10 1234                 : 0   of 1  
+./convert 5 10 123456               : 1   of 1  
+-------------------------------------------------
+CS240: lab3b. guo268 Mon Feb 16 21:24:12 EST 2015  Total:  5 of 14
+
+
+
+-------------------------------------------------
+CS240: lab3b . guo268   
+Mon Feb 16 21:25:12 EST 2015
+-------------------------------------------------
+./convert                           : 1   of 1  
+./convert 10                        : 1   of 1  
+./convert 10 10                     : 1   of 1  
+./convert 10 10                     : 1   of 1  
+./convert 10 10 10                  : 1   of 1  
+./convert 16 10 FF                  : 1   of 1  
+./convert 16 10 100                 : 1   of 1  
+./convert 10 8 20                   : 1   of 1  
+./convert 10 2 127                  : 1   of 1  
+./convert 10 16 8191                : 0   of 1  
+./convert 10 25 100077900           : 1   of 1  
+./convert 2 16 100010001111         : 1   of 1  
+./convert 5 10 1234                 : 1   of 1  
+./convert 5 10 123456               : 0   of 1  
+-------------------------------------------------
+CS240: lab3b. guo268 Mon Feb 16 21:25:12 EST 2015  Total:  12 of 14
+
+
+
+-------------------------------------------------
+CS240: lab3b . guo268   
+Mon Feb 16 21:25:50 EST 2015
+-------------------------------------------------
+./convert                           : 1   of 1  
+./convert 10                        : 1   of 1  
+./convert 10 10                     : 1   of 1  
+./convert 10 10                     : 1   of 1  
+./convert 10 10 10                  : 1   of 1  
+./convert 16 10 FF                  : 1   of 1  
+./convert 16 10 100                 : 1   of 1  
+./convert 10 8 20                   : 1   of 1  
+./convert 10 2 127                  : 1   of 1  
+./convert 10 16 8191                : 1   of 1  
+./convert 10 25 100077900           : 1   of 1  
+./convert 2 16 100010001111         : 1   of 1  
+./convert 5 10 1234                 : 1   of 1  
+./convert 5 10 123456               : 1   of 1  
+-------------------------------------------------
+CS240: lab3b. guo268 Mon Feb 16 21:25:50 EST 2015  Total:  14 of 14
+
+
+
+-------------------------------------------------
+CS240: lab3b . guo268   
+Mon Feb 16 21:28:30 EST 2015
+-------------------------------------------------
+./convert                           : 1   of 1  
+./convert 10                        : 1   of 1  
+./convert 10 10                     : 1   of 1  
+./convert 10 10                     : 1   of 1  
+./convert 10 10 10                  : 1   of 1  
+./convert 16 10 FF                  : 1   of 1  
+./convert 16 10 100                 : 1   of 1  
+./convert 10 8 20                   : 1   of 1  
+./convert 10 2 127                  : 1   of 1  
+./convert 10 16 8191                : 1   of 1  
+./convert 10 25 100077900           : 1   of 1  
+./convert 2 16 100010001111         : 1   of 1  
+./convert 5 10 1234                 : 1   of 1  
+./convert 5 10 123456               : 1   of 1  
+-------------------------------------------------
+CS240: lab3b. guo268 Mon Feb 16 21:28:30 EST 2015  Total:  14 of 14
+
+
+
+-------------------------------------------------
+CS240: lab3b . guo268   
+Mon Feb 16 21:31:13 EST 2015
+-------------------------------------------------
+./convert                           : 1   of 1  
+./convert 10                        : 1   of 1  
+./convert 10 10                     : 1   of 1  
+./convert 10 10                     : 1   of 1  
+./convert 10 10 10                  : 1   of 1  
+./convert 16 10 FF                  : 1   of 1  
+./convert 16 10 100                 : 1   of 1  
+./convert 10 8 20                   : 1   of 1  
+./convert 10 2 127                  : 1   of 1  
+./convert 10 16 8191                : 1   of 1  
+./convert 10 25 100077900           : 1   of 1  
+./convert 2 16 100010001111         : 1   of 1  
+./convert 5 10 1234                 : 1   of 1  
+./convert 5 10 123456               : 1   of 1  
+-------------------------------------------------
+CS240: lab3b. guo268 Mon Feb 16 21:31:13 EST 2015  Total:  14 of 14
+
+
+
+-------------------------------------------------
+CS240: lab3b . guo268   
+Mon Feb 16 21:32:57 EST 2015
+-------------------------------------------------
+./convert                           : 1   of 1  
+./convert 10                        : 1   of 1  
+./convert 10 10                     : 1   of 1  
+./convert 10 10                     : 1   of 1  
+./convert 10 10 10                  : 0   of 1  
+./convert 16 10 FF                  : 0   of 1  
+./convert 16 10 100                 : 0   of 1  
+./convert 10 8 20                   : 0   of 1  
+./convert 10 2 127                  : 0   of 1  
+./convert 10 16 8191                : 0   of 1  
+./convert 10 25 100077900           : 0   of 1  
+./convert 2 16 100010001111         : 0   of 1  
+./convert 5 10 1234                 : 0   of 1  
+./convert 5 10 123456               : 1   of 1  
+-------------------------------------------------
+CS240: lab3b. guo268 Mon Feb 16 21:32:57 EST 2015  Total:  5 of 14
+
+
+
+-------------------------------------------------
+CS240: lab3b . guo268   
+Mon Feb 16 21:33:39 EST 2015
+-------------------------------------------------
+./convert                           : 1   of 1  
+./convert 10                        : 1   of 1  
+./convert 10 10                     : 1   of 1  
+./convert 10 10                     : 1   of 1  
+./convert 10 10 10                  : 1   of 1  
+./convert 16 10 FF                  : 1   of 1  
+./convert 16 10 100                 : 1   of 1  
+./convert 10 8 20                   : 1   of 1  
+./convert 10 2 127                  : 1   of 1  
+./convert 10 16 8191                : 1   of 1  
+./convert 10 25 100077900           : 1   of 1  
+./convert 2 16 100010001111         : 1   of 1  
+./convert 5 10 1234                 : 1   of 1  
+./convert 5 10 123456               : 1   of 1  
+-------------------------------------------------
+CS240: lab3b. guo268 Mon Feb 16 21:33:39 EST 2015  Total:  14 of 14
+
+
+
+-------------------------------------------------
+CS240: lab3b . guo268   
+Mon Feb 16 21:40:32 EST 2015
+-------------------------------------------------
+./convert                           : 1   of 1  
+./convert 10                        : 1   of 1  
+./convert 10 10                     : 1   of 1  
+./convert 10 10                     : 1   of 1  
+./convert 10 10 10                  : 1   of 1  
+./convert 16 10 FF                  : 1   of 1  
+./convert 16 10 100                 : 1   of 1  
+./convert 10 8 20                   : 1   of 1  
+./convert 10 2 127                  : 1   of 1  
+./convert 10 16 8191                : 0   of 1  
+./convert 10 25 100077900           : 0   of 1  
+./convert 2 16 100010001111         : 0   of 1  
+./convert 5 10 1234                 : 1   of 1  
+./convert 5 10 123456               : 1   of 1  
+-------------------------------------------------
+CS240: lab3b. guo268 Mon Feb 16 21:40:32 EST 2015  Total:  11 of 14
+
+
+
+-------------------------------------------------
+CS240: lab3b . guo268   
+Mon Feb 16 21:41:12 EST 2015
+-------------------------------------------------
+./convert                           : 1   of 1  
+./convert 10                        : 1   of 1  
+./convert 10 10                     : 1   of 1  
+./convert 10 10                     : 1   of 1  
+./convert 10 10 10                  : 1   of 1  
+./convert 16 10 FF                  : 1   of 1  
+./convert 16 10 100                 : 1   of 1  
+./convert 10 8 20                   : 1   of 1  
+./convert 10 2 127                  : 1   of 1  
+./convert 10 16 8191                : 0   of 1  
+./convert 10 25 100077900           : 0   of 1  
+./convert 2 16 100010001111         : 0   of 1  
+./convert 5 10 1234                 : 1   of 1  
+./convert 5 10 123456               : 1   of 1  
+-------------------------------------------------
+CS240: lab3b. guo268 Mon Feb 16 21:41:12 EST 2015  Total:  11 of 14
+
+
+
+-------------------------------------------------
+CS240: lab3b . guo268   
+Mon Feb 16 21:42:48 EST 2015
+-------------------------------------------------
+./convert                           : 1   of 1  
+./convert 10                        : 1   of 1  
+./convert 10 10                     : 1   of 1  
+./convert 10 10                     : 1   of 1  
+./convert 10 10 10                  : 0   of 1  
+./convert 16 10 FF                  : 0   of 1  
+./convert 16 10 100                 : 0   of 1  
+./convert 10 8 20                   : 0   of 1  
+./convert 10 2 127                  : 0   of 1  
+./convert 10 16 8191                : 0   of 1  
+./convert 10 25 100077900           : 0   of 1  
+./convert 2 16 100010001111         : 0   of 1  
+./convert 5 10 1234                 : 0   of 1  
+./convert 5 10 123456               : 1   of 1  
+-------------------------------------------------
+CS240: lab3b. guo268 Mon Feb 16 21:42:48 EST 2015  Total:  5 of 14
+
+
+
+-------------------------------------------------
+CS240: lab3b . guo268   
+Mon Feb 16 21:43:35 EST 2015
+-------------------------------------------------
+./convert                           : 1   of 1  
+./convert 10                        : 1   of 1  
+./convert 10 10                     : 1   of 1  
+./convert 10 10                     : 1   of 1  
+./convert 10 10 10                  : 0   of 1  
+./convert 16 10 FF                  : 0   of 1  
+./convert 16 10 100                 : 0   of 1  
+./convert 10 8 20                   : 0   of 1  
+./convert 10 2 127                  : 0   of 1  
+./convert 10 16 8191                : 0   of 1  
+./convert 10 25 100077900           : 0   of 1  
+./convert 2 16 100010001111         : 0   of 1  
+./convert 5 10 1234                 : 0   of 1  
+./convert 5 10 123456               : 1   of 1  
+-------------------------------------------------
+CS240: lab3b. guo268 Mon Feb 16 21:43:35 EST 2015  Total:  5 of 14
+
+
+
+-------------------------------------------------
+CS240: lab3b . guo268   
+Mon Feb 16 21:43:57 EST 2015
+-------------------------------------------------
+./convert                           : 1   of 1  
+./convert 10                        : 1   of 1  
+./convert 10 10                     : 1   of 1  
+./convert 10 10                     : 1   of 1  
+./convert 10 10 10                  : 1   of 1  
+./convert 16 10 FF                  : 1   of 1  
+./convert 16 10 100                 : 1   of 1  
+./convert 10 8 20                   : 1   of 1  
+./convert 10 2 127                  : 1   of 1  
+./convert 10 16 8191                : 0   of 1  
+./convert 10 25 100077900           : 0   of 1  
+./convert 2 16 100010001111         : 0   of 1  
+./convert 5 10 1234                 : 1   of 1  
+./convert 5 10 123456               : 1   of 1  
+-------------------------------------------------
+CS240: lab3b. guo268 Mon Feb 16 21:43:57 EST 2015  Total:  11 of 14
+
+
+
+-------------------------------------------------
+CS240: lab3b . guo268   
+Mon Feb 16 21:44:48 EST 2015
+-------------------------------------------------
+./convert                           : 1   of 1  
+./convert 10                        : 1   of 1  
+./convert 10 10                     : 1   of 1  
+./convert 10 10                     : 1   of 1  
+./convert 10 10 10                  : 1   of 1  
+./convert 16 10 FF                  : 1   of 1  
+./convert 16 10 100                 : 1   of 1  
+./convert 10 8 20                   : 1   of 1  
+./convert 10 2 127                  : 1   of 1  
+./convert 10 16 8191                : 0   of 1  
+./convert 10 25 100077900           : 0   of 1  
+./convert 2 16 100010001111         : 0   of 1  
+./convert 5 10 1234                 : 1   of 1  
+./convert 5 10 123456               : 1   of 1  
+-------------------------------------------------
+CS240: lab3b. guo268 Mon Feb 16 21:44:48 EST 2015  Total:  11 of 14
+
+
+
+-------------------------------------------------
+CS240: lab3b . guo268   
+Mon Feb 16 21:45:04 EST 2015
+-------------------------------------------------
+./convert                           : 1   of 1  
+./convert 10                        : 1   of 1  
+./convert 10 10                     : 1   of 1  
+./convert 10 10                     : 1   of 1  
+./convert 10 10 10                  : 1   of 1  
+./convert 16 10 FF                  : 1   of 1  
+./convert 16 10 100                 : 1   of 1  
+./convert 10 8 20                   : 1   of 1  
+./convert 10 2 127                  : 1   of 1  
+./convert 10 16 8191                : 1   of 1  
+./convert 10 25 100077900           : 1   of 1  
+./convert 2 16 100010001111         : 1   of 1  
+./convert 5 10 1234                 : 1   of 1  
+./convert 5 10 123456               : 1   of 1  
+-------------------------------------------------
+CS240: lab3b. guo268 Mon Feb 16 21:45:04 EST 2015  Total:  14 of 14
+
+
+
+-------------------------------------------------
+CS240: lab3b . guo268   
+Mon Feb 16 21:45:21 EST 2015
+-------------------------------------------------
+./convert                           : 1   of 1  
+./convert 10                        : 1   of 1  
+./convert 10 10                     : 1   of 1  
+./convert 10 10                     : 1   of 1  
+./convert 10 10 10                  : 0   of 1  
+./convert 16 10 FF                  : 0   of 1  
+./convert 16 10 100                 : 0   of 1  
+./convert 10 8 20                   : 0   of 1  
+./convert 10 2 127                  : 0   of 1  
+./convert 10 16 8191                : 0   of 1  
+./convert 10 25 100077900           : 0   of 1  
+./convert 2 16 100010001111         : 0   of 1  
+./convert 5 10 1234                 : 0   of 1  
+./convert 5 10 123456               : 1   of 1  
+-------------------------------------------------
+CS240: lab3b. guo268 Mon Feb 16 21:45:21 EST 2015  Total:  5 of 14
+
+
+
+-------------------------------------------------
+CS240: lab3b . guo268   
+Mon Feb 16 21:45:34 EST 2015
+-------------------------------------------------
+./convert                           : 1   of 1  
+./convert 10                        : 1   of 1  
+./convert 10 10                     : 1   of 1  
+./convert 10 10                     : 1   of 1  
+./convert 10 10 10                  : 1   of 1  
+./convert 16 10 FF                  : 1   of 1  
+./convert 16 10 100                 : 1   of 1  
+./convert 10 8 20                   : 1   of 1  
+./convert 10 2 127                  : 1   of 1  
+./convert 10 16 8191                : 1   of 1  
+./convert 10 25 100077900           : 1   of 1  
+./convert 2 16 100010001111         : 1   of 1  
+./convert 5 10 1234                 : 1   of 1  
+./convert 5 10 123456               : 1   of 1  
+-------------------------------------------------
+CS240: lab3b. guo268 Mon Feb 16 21:45:34 EST 2015  Total:  14 of 14
+
+
+
+-------------------------------------------------
+CS240: lab3b . guo268   
+Mon Feb 16 21:50:23 EST 2015
+-------------------------------------------------
+./convert                           : 1   of 1  
+./convert 10                        : 1   of 1  
+./convert 10 10                     : 1   of 1  
+./convert 10 10                     : 1   of 1  
+./convert 10 10 10                  : 1   of 1  
+./convert 16 10 FF                  : 1   of 1  
+./convert 16 10 100                 : 1   of 1  
+./convert 10 8 20                   : 1   of 1  
+./convert 10 2 127                  : 1   of 1  
+./convert 10 16 8191                : 1   of 1  
+./convert 10 25 100077900           : 1   of 1  
+./convert 2 16 100010001111         : 1   of 1  
+./convert 5 10 1234                 : 1   of 1  
+./convert 5 10 123456               : 1   of 1  
+-------------------------------------------------
+CS240: lab3b. guo268 Mon Feb 16 21:50:23 EST 2015  Total:  14 of 14
+
+
+
+-------------------------------------------------
+CS240: lab3b . guo268   
+Mon Feb 16 21:56:22 EST 2015
+-------------------------------------------------
+./convert                           : 1   of 1  
+./convert 10                        : 1   of 1  
+./convert 10 10                     : 1   of 1  
+./convert 10 10                     : 1   of 1  
+./convert 10 10 10                  : 1   of 1  
+./convert 16 10 FF                  : 1   of 1  
+./convert 16 10 100                 : 1   of 1  
+./convert 10 8 20                   : 1   of 1  
+./convert 10 2 127                  : 1   of 1  
+./convert 10 16 8191                : 1   of 1  
+./convert 10 25 100077900           : 1   of 1  
+./convert 2 16 100010001111         : 1   of 1  
+./convert 5 10 1234                 : 1   of 1  
+./convert 5 10 123456               : 1   of 1  
+-------------------------------------------------
+CS240: lab3b. guo268 Mon Feb 16 21:56:22 EST 2015  Total:  14 of 14
+
+
+
+-------------------------------------------------
+CS240: lab3b . guo268   
+Mon Feb 16 22:00:16 EST 2015
+-------------------------------------------------
+./convert                           : 1   of 1  
+./convert 10                        : 1   of 1  
+./convert 10 10                     : 1   of 1  
+./convert 10 10                     : 1   of 1  
+./convert 10 10 10                  : 1   of 1  
+./convert 16 10 FF                  : 1   of 1  
+./convert 16 10 100                 : 1   of 1  
+./convert 10 8 20                   : 1   of 1  
+./convert 10 2 127                  : 1   of 1  
+./convert 10 16 8191                : 1   of 1  
+./convert 10 25 100077900           : 1   of 1  
+./convert 2 16 100010001111         : 1   of 1  
+./convert 5 10 1234                 : 1   of 1  
+./convert 5 10 123456               : 1   of 1  
+-------------------------------------------------
+CS240: lab3b. guo268 Mon Feb 16 22:00:16 EST 2015  Total:  14 of 14
+
+
+
+-------------------------------------------------
+CS240: lab3b . guo268   
+Mon Feb 16 22:01:02 EST 2015
+-------------------------------------------------
+./convert                           : 1   of 1  
+./convert 10                        : 1   of 1  
+./convert 10 10                     : 1   of 1  
+./convert 10 10                     : 1   of 1  
+./convert 10 10 10                  : 1   of 1  
+./convert 16 10 FF                  : 0   of 1  
+./convert 16 10 100                 : 1   of 1  
+./convert 10 8 20                   : 1   of 1  
+./convert 10 2 127                  : 1   of 1  
+./convert 10 16 8191                : 1   of 1  
+./convert 10 25 100077900           : 1   of 1  
+./convert 2 16 100010001111         : 1   of 1  
+./convert 5 10 1234                 : 1   of 1  
+./convert 5 10 123456               : 1   of 1  
+-------------------------------------------------
+CS240: lab3b. guo268 Mon Feb 16 22:01:02 EST 2015  Total:  13 of 14
+
+
+
+-------------------------------------------------
+CS240: lab3b . guo268   
+Mon Feb 16 22:01:18 EST 2015
+-------------------------------------------------
+./convert                           : 1   of 1  
+./convert 10                        : 1   of 1  
+./convert 10 10                     : 1   of 1  
+./convert 10 10                     : 1   of 1  
+./convert 10 10 10                  : 1   of 1  
+./convert 16 10 FF                  : 1   of 1  
+./convert 16 10 100                 : 1   of 1  
+./convert 10 8 20                   : 1   of 1  
+./convert 10 2 127                  : 1   of 1  
+./convert 10 16 8191                : 1   of 1  
+./convert 10 25 100077900           : 1   of 1  
+./convert 2 16 100010001111         : 1   of 1  
+./convert 5 10 1234                 : 1   of 1  
+./convert 5 10 123456               : 1   of 1  
+-------------------------------------------------
+CS240: lab3b. guo268 Mon Feb 16 22:01:18 EST 2015  Total:  14 of 14
+
+
+
+-------------------------------------------------
+CS240: lab3b . guo268   
+Mon Feb 16 22:01:53 EST 2015
+-------------------------------------------------
+./convert                           : 1   of 1  
+./convert 10                        : 1   of 1  
+./convert 10 10                     : 1   of 1  
+./convert 10 10                     : 1   of 1  
+./convert 10 10 10                  : 1   of 1  
+./convert 16 10 FF                  : 0   of 1  
+./convert 16 10 100                 : 1   of 1  
+./convert 10 8 20                   : 1   of 1  
+./convert 10 2 127                  : 1   of 1  
+./convert 10 16 8191                : 1   of 1  
+./convert 10 25 100077900           : 1   of 1  
+./convert 2 16 100010001111         : 1   of 1  
+./convert 5 10 1234                 : 1   of 1  
+./convert 5 10 123456               : 1   of 1  
+-------------------------------------------------
+CS240: lab3b. guo268 Mon Feb 16 22:01:53 EST 2015  Total:  13 of 14
+
+
+
+-------------------------------------------------
+CS240: lab3b . guo268   
+Mon Feb 16 22:02:06 EST 2015
+-------------------------------------------------
+./convert                           : 1   of 1  
+./convert 10                        : 1   of 1  
+./convert 10 10                     : 1   of 1  
+./convert 10 10                     : 1   of 1  
+./convert 10 10 10                  : 1   of 1  
+./convert 16 10 FF                  : 1   of 1  
+./convert 16 10 100                 : 1   of 1  
+./convert 10 8 20                   : 1   of 1  
+./convert 10 2 127                  : 1   of 1  
+./convert 10 16 8191                : 1   of 1  
+./convert 10 25 100077900           : 1   of 1  
+./convert 2 16 100010001111         : 1   of 1  
+./convert 5 10 1234                 : 1   of 1  
+./convert 5 10 123456               : 1   of 1  
+-------------------------------------------------
+CS240: lab3b. guo268 Mon Feb 16 22:02:06 EST 2015  Total:  14 of 14
+
+
+
+-------------------------------------------------
+CS240: lab3b . guo268   
+Mon Feb 16 22:05:04 EST 2015
+-------------------------------------------------
+./convert                           : 1   of 1  
+./convert 10                        : 1   of 1  
+./convert 10 10                     : 1   of 1  
+./convert 10 10                     : 1   of 1  
+./convert 10 10 10                  : 1   of 1  
+./convert 16 10 FF                  : 1   of 1  
+./convert 16 10 100                 : 1   of 1  
+./convert 10 8 20                   : 1   of 1  
+./convert 10 2 127                  : 1   of 1  
+./convert 10 16 8191                : 1   of 1  
+./convert 10 25 100077900           : 1   of 1  
+./convert 2 16 100010001111         : 1   of 1  
+./convert 5 10 1234                 : 1   of 1  
+./convert 5 10 123456               : 1   of 1  
+-------------------------------------------------
+CS240: lab3b. guo268 Mon Feb 16 22:05:04 EST 2015  Total:  14 of 14
+
+
+
+-------------------------------------------------
+CS240: lab3b . guo268   
+Mon Feb 16 22:06:01 EST 2015
+-------------------------------------------------
+./convert                           : 1   of 1  
+./convert 10                        : 1   of 1  
+./convert 10 10                     : 1   of 1  
+./convert 10 10                     : 1   of 1  
+./convert 10 10 10                  : 1   of 1  
+./convert 16 10 FF                  : 0   of 1  
+./convert 16 10 100                 : 1   of 1  
+./convert 10 8 20                   : 1   of 1  
+./convert 10 2 127                  : 1   of 1  
+./convert 10 16 8191                : 1   of 1  
+./convert 10 25 100077900           : 1   of 1  
+./convert 2 16 100010001111         : 1   of 1  
+./convert 5 10 1234                 : 1   of 1  
+./convert 5 10 123456               : 1   of 1  
+-------------------------------------------------
+CS240: lab3b. guo268 Mon Feb 16 22:06:01 EST 2015  Total:  13 of 14
+
+
+
+-------------------------------------------------
+CS240: lab3b . guo268   
+Mon Feb 16 22:06:08 EST 2015
+-------------------------------------------------
+./convert                           : 1   of 1  
+./convert 10                        : 1   of 1  
+./convert 10 10                     : 1   of 1  
+./convert 10 10                     : 1   of 1  
+./convert 10 10 10                  : 1   of 1  
+./convert 16 10 FF                  : 1   of 1  
+./convert 16 10 100                 : 1   of 1  
+./convert 10 8 20                   : 1   of 1  
+./convert 10 2 127                  : 1   of 1  
+./convert 10 16 8191                : 1   of 1  
+./convert 10 25 100077900           : 1   of 1  
+./convert 2 16 100010001111         : 1   of 1  
+./convert 5 10 1234                 : 1   of 1  
+./convert 5 10 123456               : 1   of 1  
+-------------------------------------------------
+CS240: lab3b. guo268 Mon Feb 16 22:06:08 EST 2015  Total:  14 of 14
+
+
+
+-------------------------------------------------
+CS240: lab3b . guo268   
+Mon Feb 16 22:06:57 EST 2015
+-------------------------------------------------
+./convert                           : 1   of 1  
+./convert 10                        : 1   of 1  
+./convert 10 10                     : 1   of 1  
+./convert 10 10                     : 1   of 1  
+./convert 10 10 10                  : 1   of 1  
+./convert 16 10 FF                  : 1   of 1  
+./convert 16 10 100                 : 1   of 1  
+./convert 10 8 20                   : 1   of 1  
+./convert 10 2 127                  : 1   of 1  
+./convert 10 16 8191                : 1   of 1  
+./convert 10 25 100077900           : 1   of 1  
+./convert 2 16 100010001111         : 1   of 1  
+./convert 5 10 1234                 : 1   of 1  
+./convert 5 10 123456               : 1   of 1  
+-------------------------------------------------
+CS240: lab3b. guo268 Mon Feb 16 22:06:57 EST 2015  Total:  14 of 14
+
+
+
+-------------------------------------------------
+CS240: lab3b . guo268   
+Mon Feb 16 22:07:33 EST 2015
+-------------------------------------------------
+./convert                           : 1   of 1  
+./convert 10                        : 1   of 1  
+./convert 10 10                     : 1   of 1  
+./convert 10 10                     : 1   of 1  
+./convert 10 10 10                  : 1   of 1  
+./convert 16 10 FF                  : 1   of 1  
+./convert 16 10 100                 : 1   of 1  
+./convert 10 8 20                   : 1   of 1  
+./convert 10 2 127                  : 1   of 1  
+./convert 10 16 8191                : 1   of 1  
+./convert 10 25 100077900           : 1   of 1  
+./convert 2 16 100010001111         : 1   of 1  
+./convert 5 10 1234                 : 1   of 1  
+./convert 5 10 123456               : 1   of 1  
+-------------------------------------------------
+CS240: lab3b. guo268 Mon Feb 16 22:07:33 EST 2015  Total:  14 of 14
+
